@@ -1,0 +1,150 @@
+
+.h{    
+     background:hotpink;
+    
+     font-size: 50px;
+	 padding : 40px;
+	 border : 6px solid pink;
+	 color: green;
+	 margin: 0 auto;
+
+	 } 
+
+#b{
+
+}
+.a {
+
+	background: url(airline.jpg);
+    
+    
+} 
+
+
+#t{
+	color: red;
+	height : 25px;
+	width: 170px;
+	margin : 4px;
+	text-align: center;
+	padding : 2px;
+	background : #0000ff
+
+} 
+#t:hover{
+ background-color: #1a001a;
+}
+
+
+
+
+
+
+
+
+#d{
+	height : 700px;
+	border : 6px solid pink;
+	background : hotpink;
+    margin : 0 auto;
+}  
+
+#dd{
+    height : 510px;
+	width : 1000px;
+	background : #ABEBC6;
+    margin : 0 auto;	
+}
+
+
+#dd input[type="submit"]:hover{
+                cursor:pointer;
+                background:gray;
+                color:#000;
+                }
+
+
+#form{ 
+    height : 50px;
+	width: 380px;
+	margin : 5px;
+	text-align: center;
+	padding : 3px;
+} 
+
+
+.img{
+	height : 170px;
+	width : 250px;
+	border-radius : 25px;
+}
+
+#button{
+	height : 30px;
+	width: 380px;
+	margin : 2px;
+	text-align: center;
+	padding : 2px;
+	background :#85929E;
+	cursor: pointer;
+	font-size: large;
+}
+
+#button:hover{
+   background-color: darkgreen;
+}
+
+
+#butt{
+	color: red;
+	height : 25px;
+	width: 170px;
+	margin : 4px;
+	text-align: center;
+	padding : 2px;
+	background :#00ffff; 
+	cursor: pointer;
+	
+
+} 
+#butt:hover{
+ background-color: gray;
+}
+
+
+#bookbutt{
+	color: blue;
+	height : 25px;
+	width: 170px;
+	margin : 4px;
+	text-align: center;
+	padding : 2px;
+	background :#F0E68C;
+
+} 
+#bookbutt:hover{
+ background-color: gray ;
+}
+
+
+
+
+
+
+#logout{ 
+	color : white;
+    height : 25px;
+	width: 70px;
+	margin : 2px;
+	text-align: center;
+	padding : 3px;
+	background : #006400;
+
+} 
+
+#logout input[type="submit"]:hover {
+	cursor: pointer;
+	background-color: gray;
+}
+
+ 
